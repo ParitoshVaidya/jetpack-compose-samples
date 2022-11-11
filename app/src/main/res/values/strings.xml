@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Compose Samples</string>
+    <string name="title_activity_dice_roller">DiceRollerActivity</string>
+</resources>
